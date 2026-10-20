@@ -6,13 +6,6 @@ This is a cool and original Electric/Steel type Pokémon that I made up.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 # **Moves & Abilities**
 
