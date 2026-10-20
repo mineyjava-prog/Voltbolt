@@ -4,6 +4,9 @@ A cool little Pokémon I made.
 This is a cool and original Electric/Steel type Pokémon that I made up.
 
 <br>
+
+Just so you know, the Japanese translation was done with AI.
+
 <br>
 <br>
 <br>
